@@ -1,0 +1,2 @@
+# UICountingLabel
+类似金币逐渐变化增大到预定值的动画效果的Label
