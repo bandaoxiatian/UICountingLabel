@@ -1,6 +1,8 @@
+
 # UICountingLabel ####
 
 Adds animated counting support to `UILabel`. 
+类似金币逐渐变化增大到预定值的动画效果的Label
 
 ## CocoaPods ######
 UICountingLabel is available on CocoaPods.
@@ -80,3 +82,4 @@ Ease Out starts out fast and slows down as it gets to the destination value.
 
 ### `UILabelCountingMethodEaseInOut` #####
 Ease In/Out starts out slow, speeds up towards the middle, and then slows down as it approaches the destination.  It is a nice, smooth curve that looks great, and is the default method.
+
